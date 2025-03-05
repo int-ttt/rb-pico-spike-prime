@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/rb_pico_spike_prime.iml" filepath="$PROJECT_DIR$/.idea/rb_pico_spike_prime.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/rbpico.iml" filepath="$PROJECT_DIR$/.idea/rbpico.iml" />
     </modules>
   </component>
